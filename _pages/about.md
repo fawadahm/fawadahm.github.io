@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in the [Computer Science Department]() at the [University of Southern California](). I am very fortunate to work [Prof. Ramesh Govindan]() at the [Networked Systems Laboratory](). My research focuses on building mobile systems that enable humans and machines like self-driving cars and drones to perceive the world better.
+I am a Ph.D. candidate in the [Computer Science Department](https://www.cs.usc.edu/) at the [University of Southern California](https://www.usc.edu/). I am very fortunate to work [Prof. Ramesh Govindan](https://govindan.usc.edu/) at the [Networked Systems Laboratory](https://nsl.usc.edu/). My research focuses on building mobile systems that enable humans and machines like self-driving cars and drones to perceive the world better.
 
-I am the recipient of the Presidential Medal, and the University Gold Medal for my undergraduate degree in Electrical Engineering at the University of Engineering and Technology, Peshawar (UETP). In my undergrad, I built cost-effective systems that alleviate traffic congestion in dense urban areas.
+I am the recipient of the Presidential Medal, and the University Gold Medal for my undergraduate degree in Electrical Engineering at the [University of Engineering and Technology, Peshawar](https://www.uetpeshawar.edu.pk/). In my undergrad, I built cost-effective systems that alleviate traffic congestion in dense urban areas.
 
-**I will join the Computer Science Department at the Rochester Institute of Technology (RIT) as an assistant professor in Fall 2022. I am looking for motivated and hardworking students to join my group. If you are interested in working with me and have read some of my papers, please send me an email.**
+**I will join the [Computer Science Department](https://www.rit.edu/computing/department-computer-science) at the [Rochester Institute of Technology](https://www.rit.edu/) as an assistant professor in Fall 2022. I am looking for motivated and hardworking students to join my group. If you are interested in working with me and have read some of my papers, please send me an email.**
