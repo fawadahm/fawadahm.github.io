@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>SAL 224</p>
-    <p>941 Bloom Walk</p>
-    <p>Los Angeles, CA 90089</p>
+    <p>70-3571</p>
+    <p>20 Lomb Memorial Drive</p>
+    <p>Rochester, NY 14623</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
