@@ -21,4 +21,4 @@ I am an assistant professor in the [Computer Science Department](https://www.rit
 
 I received my PhD in Computer Science from the [University of Southern California](https://www.usc.edu/) where I was advised by [Prof. Ramesh Govindan](https://govindan.usc.edu/). Before that, I received the Presidential Medal, and the University Gold Medal for my undergraduate degree in Electrical Engineering from the [University of Engineering and Technology, Peshawar](https://www.uetpeshawar.edu.pk/).
 
-**I am looking for motivated and hardworking students to join my group. If you are interested in working with me and have read some of my papers, please send me an email.**
+**I am looking for motivated and hardworking PhD/Masters/undergraduate students to join my group. If you are interested in working with me, before sending me an email, please read these [document](/students/).**
