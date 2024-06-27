@@ -6,7 +6,24 @@ description:
 nav: true
 nav_order: 2
 ---
+<!-- 
+## PhD Students
+* [Ali Khalid]() (2022 - )
+* [Kaleem Nawaz Khan]() (2022 - )
 
+## Masters Students
+* Vijay Bajracharya (Real-time Crowdsourced Traffic Analytics)
+* Draw Haiber (Accurately Tracking Small Objects in Sports Videos)
+* Jay Nair (Inferring 3D Trajectories from 2D Videos)
+* Zekun Kong (Indoor 3D Reconstruction)
+* Amey Shahane (Satellite-based 3D Reconstruction)
+* Danish Ahmed (Automated Highlight Generation for Cricket Matches)
+* Vidit Ketan Kothari (Road-side Unit Vehicle Cooperative Perception)
+
+## Mentees
+* [Christina Shin]
+* [Weiwu Pang]
+ -->
 ## Information for PhD Students
 Interested in joining our lab?
 We are always looking for motivated, talented, and enthusiastic PhD students to work in the areas of networks/systems, sensing, computer vision, and robotics.
