@@ -6,10 +6,14 @@ description:
 nav: true
 nav_order: 2
 ---
-<!-- 
+
 ## PhD Students
-* [Ali Khalid]() (2022 - )
-* [Kaleem Nawaz Khan]() (2022 - )
+* [Ali Khalid](https://alikhalid31.github.io/) (2022 - )
+* [Kaleem Nawaz Khan](https://kaleemnwzkhan.github.io/) (2022 - )
+
+## PhD Mentees
+* [Christina Shin](https://nsl.usc.edu/people/christina-shin/)
+* [Weiwu Pang](https://www.oscarpang.com/)
 
 ## Masters Students
 * Vijay Bajracharya (Real-time Crowdsourced Traffic Analytics)
@@ -20,18 +24,14 @@ nav_order: 2
 * Danish Ahmed (Automated Highlight Generation for Cricket Matches)
 * Vidit Ketan Kothari (Road-side Unit Vehicle Cooperative Perception)
 
-## Mentees
-* [Christina Shin]
-* [Weiwu Pang]
- -->
-## Information for PhD Students
+## Information for Potential PhD Students
 Interested in joining our lab?
 We are always looking for motivated, talented, and enthusiastic PhD students to work in the areas of networks/systems, sensing, computer vision, and robotics.
 In our lab, we develop end-to-end systems for digital twins, autonomous driving, and sports technology.
 
 If you are interested in working with us, please email me with: 1) a short description about yourself, 2) provide a clear description of why you are interested in the specific topics above, and 3) explain how your background applies specifically to this position, in addition to your curriculum vitae (CV).
 
-## Information for Undergraduate and Masters Students
+<!-- ## Information for Undergraduate and Masters Students
 Normally I am interested in topics that expand current and/or previous research we have done in our lab.
 That said,  I am willing to consider other problems.
 You can find a list of previous publications, Master's/BSc theses and projects on my webpage. 
@@ -87,6 +87,6 @@ A successfully defended Master's thesis has its title page submitted by committe
 ## Summary
 Doing good work takes time and planning. Research work is no exception.
 
-I am hopeful that this document will help to clarify the preferred path to completing a project or thesis with me, and make it easier for students to know what deadlines they will need to meet.
+I am hopeful that this document will help to clarify the preferred path to completing a project or thesis with me, and make it easier for students to know what deadlines they will need to meet. -->
 
-*For this document, I thank Dr. Richard Zannibi -- his original [student guide](https://www.cs.rit.edu/~rlaz/DPRL-Project-Thesis-Notes.html) was the source from which this one was created/adapted.*
+<!-- *For this document, I thank Dr. Richard Zannibi -- his original [student guide](https://www.cs.rit.edu/~rlaz/DPRL-Project-Thesis-Notes.html) was the source from which this one was created/adapted.* -->
