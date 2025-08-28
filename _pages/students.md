@@ -24,13 +24,6 @@ nav_order: 2
 * Danish Ahmed (Automated Highlight Generation for Cricket Matches)
 * Vidit Ketan Kothari (Road-side Unit Vehicle Cooperative Perception)
 
-## Information for Potential PhD Students
-Interested in joining our lab?
-We are always looking for motivated, talented, and enthusiastic PhD students to work in the areas of networks/systems, sensing, computer vision, and robotics.
-In our lab, we develop end-to-end systems for digital twins, autonomous driving, and sports technology.
-
-If you are interested in working with us, please email me with: 1) a short description about yourself, 2) provide a clear description of why you are interested in the specific topics above, and 3) explain how your background applies specifically to this position, in addition to your curriculum vitae (CV).
-
 <!-- ## Information for Undergraduate and Masters Students
 Normally I am interested in topics that expand current and/or previous research we have done in our lab.
 That said,  I am willing to consider other problems.
