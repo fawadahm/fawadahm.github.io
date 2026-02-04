@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Office hours: Tue/Thr 3:30 - 4:30 pm</p>
+    <p>Office hours: Mon/Wed 3:30 - 4:30 pm</p>
     <p>70-3571</p>
     <p>20 Lomb Memorial Drive</p>
     <p>Rochester, NY 14623</p>
